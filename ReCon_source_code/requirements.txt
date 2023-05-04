@@ -1,0 +1,10 @@
+tensorboardX==2.5.1
+pandas==1.4.4.
+numpy==1.21.5
+# gurobipy
+omegaconf
+scikit-learn==1.2.2
+POT
+matplotlib==3.5.2
+pytorch_lightning==1.8.0
+wandb==0.14.2
